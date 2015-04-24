@@ -1,5 +1,3 @@
-# default
-
-An implementation of Dominion game in Clojure.
+An implementation of Dominion in Clojure.
 
 Not very smart yet...
